@@ -1,5 +1,5 @@
 # Learning_methods_dynamic_TM
-Code for the models introduced in the paper "Learning Methods for Dynamic Topic Modeling in Automated Behavior Analysis" by Olga Isupova, Danil Kuzin, Lyudmila Mihaylova. Published in IEEE Transactions on Neural Networks and Learning Systems, 2017
+Code for the models introduced in the paper "Learning Methods for Dynamic Topic Modeling in Automated Behavior Analysis" by Olga Isupova, Danil Kuzin, Lyudmila Mihaylova. Published in [IEEE Transactions on Neural Networks and Learning Systems, 2017](http://ieeexplore.ieee.org/document/8052214/?denied)
 
 Two learning methods for the Markov Clustering Topic Model (MCTM) are developed - Expectation-Maximisation (EM) algorithm and Variational Bayes (VB) inference.
 Implementation is done in Matlab.
